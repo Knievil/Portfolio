@@ -68,6 +68,12 @@ a:link {
 
 .aside {
 	position: absolute;
+	right: 0px;
+	text-align: left;
+	padding: 10px;
+	color: black;
+	background-color: #838383;
+	border: ;
 }
 
 .footer {
